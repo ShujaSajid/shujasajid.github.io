@@ -1,24 +1,14 @@
 cv:
   name: Shuja Sajid
-  label: Research Scholar — Computer Science
   email: shujasajid8@gmail.com
   phone: +91 94566 68602
   location: New Delhi, India
-  image: ""
-  summary: Highly motivated research scholar in computer science with interests in cybersecurity, knowledge representation, ontology and ergonomics.
 
   social_networks:
     - network: GitHub
       username: ShujaSajid
     - network: LinkedIn
       username: shujasajid
-
-  address:
-    street: ""
-    city: New Delhi
-    region: Delhi
-    postalCode: ""
-    countryCode: IN
 
   sections:
     Education:
@@ -27,7 +17,7 @@ cv:
         url: https://www.jmi.ac.in/
         area: Computer Science
         studyType: Doctor of Philosophy (Ph.D.)
-        start_date: 2023
+        start_date: "2023"
         end_date: present
         score: ""
         courses: ""
@@ -39,8 +29,8 @@ cv:
         url: https://www.jmi.ac.in/
         area: Computer Science and Applications
         studyType: Master of Computer Application (M.C.A.)
-        start_date: 2019
-        end_date: 2022
+        start_date: "2019"
+        end_date: "2022"
         score: "CGPA 8.67 (Distinction)"
         courses: ""
         highlights:
@@ -51,8 +41,8 @@ cv:
         url: https://www.amu.ac.in/
         area: Computer Applications, Mathematics, Physics
         studyType: Bachelor of Science (Hons.)
-        start_date: 2016
-        end_date: 2019
+        start_date: "2016"
+        end_date: "2019"
         score: "CGPA 7.03"
         courses: ""
         highlights: []
@@ -82,7 +72,7 @@ cv:
           - M. Nazir
           - M. Aijaz
         publisher: 2025 2nd International Conference on Multidisciplinary Research and Innovations in Engineering (MRIE), Gurugram, India
-        releaseDate: 2025
+        releaseDate: "2025"
         url: https://doi.org/10.1109/MRIE66930.2025.11156632
         summary: pp. 427-432. A second paper, "A Decision-Process Framework for Cyber-Physical Security Risk Mitigation in Healthcare Systems," was presented at ICMSDRI-2026, Gurugram, India.
 
@@ -163,7 +153,7 @@ cv:
       - title: "GATE 2022 — All India Rank 8886"
         authors:
           - GATE
-        date: 2022
+        date: "2022"
         awarder: Graduate Aptitude Test in Engineering
         summary: Computer Science and Information Technology (CS).
 
