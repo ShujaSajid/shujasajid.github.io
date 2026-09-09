@@ -32,7 +32,7 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - Research interests: cybersecurity, knowledge representation, ontology and ergonomics.
+          - "Research interests: cybersecurity, knowledge representation, ontology and ergonomics."
 
       - institution: Jamia Millia Islamia
         location: New Delhi, India
@@ -88,35 +88,27 @@ cv:
 
     Projects:
       - name: Hate Speech Detection in Tweets using Deep Learning
-        summary: Cleaned and processed multi-source social media and news data for deep learning model training. Developed an interactive Streamlit dashboard for real-time visualization of results and performance metrics. Tech stack: Python, FastAI, NumPy, Streamlit. Repository: github.com/ShujaSajid/MajorProjectFinal.
+        summary: "Cleaned and processed multi-source social media and news data for deep learning model training. Developed an interactive Streamlit dashboard for real-time visualization of results and performance metrics. Tech stack: Python, FastAI, NumPy, Streamlit. Repository: github.com/ShujaSajid/MajorProjectFinal."
         highlights:
           - Deep learning on multi-source social media data
           - Interactive Streamlit dashboard
-        start_date: ""
-        end_date: ""
 
       - name: Image Based Steganography
-        summary: Tkinter GUI application using custom cryptographic techniques for secure communication. Encrypted text into image files with full data retrieval and no visual distortion. Tech stack: Python, PIL, Tkinter, Docker. Repository: github.com/ShujaSajid/ImageBasedSteganography.
+        summary: "Tkinter GUI application using custom cryptographic techniques for secure communication. Encrypted text into image files with full data retrieval and no visual distortion. Tech stack: Python, PIL, Tkinter, Docker. Repository: github.com/ShujaSajid/ImageBasedSteganography."
         highlights:
           - Custom cryptographic techniques
           - Tkinter GUI and Docker packaging
-        start_date: ""
-        end_date: ""
 
       - name: Student Web Services
-        summary: End-to-end online admissions portal managing the complete student enrollment lifecycle with a PHP/MySQL backend processing 500+ student records. Tech stack: PHP, HTML, CSS, JavaScript, jQuery, MySQL.
+        summary: "End-to-end online admissions portal managing the complete student enrollment lifecycle with a PHP/MySQL backend processing 500+ student records. Tech stack: PHP, HTML, CSS, JavaScript, jQuery, MySQL."
         highlights:
           - Complete enrollment lifecycle management
           - Robust PHP/MySQL backend
-        start_date: ""
-        end_date: ""
 
       - name: E-Commerce Website
-        summary: Full-stack e-commerce platform with custom user and admin dashboards for order workflows. Tech stack: PHP, HTML, CSS, JavaScript, jQuery, MySQL.
+        summary: "Full-stack e-commerce platform with custom user and admin dashboards for order workflows. Tech stack: PHP, HTML, CSS, JavaScript, jQuery, MySQL."
         highlights:
           - Custom user and admin dashboards
-        start_date: ""
-        end_date: ""
 
     Skills:
       - name: Programming Languages
@@ -183,12 +175,12 @@ cv:
     References:
       - name: Prof. Mansaf Alam
         icon: fa-solid fa-laptop
-        reference: Professor, Department of Computer Science, Jamia Millia Islamia. Email: malam2@jmi.ac.in.
+        reference: "Professor, Department of Computer Science, Jamia Millia Islamia. Email: malam2@jmi.ac.in."
 
       - name: Prof. Rajendra Kumar
         icon: fa-solid fa-thumbtack
-        reference: Professor, Department of Computer Science, Jamia Millia Islamia. Email: rkumar1@jmi.ac.in.
+        reference: "Professor, Department of Computer Science, Jamia Millia Islamia. Email: rkumar1@jmi.ac.in."
 
       - name: Dr. Mohammad Nadeem
         icon: fa-solid fa-laptop
-        reference: Assistant Professor, Department of Computer Science, Aligarh Muslim University. Email: mnadeem.cs@amu.ac.in.
+        reference: "Assistant Professor, Department of Computer Science, Aligarh Muslim University. Email: mnadeem.cs@amu.ac.in."
