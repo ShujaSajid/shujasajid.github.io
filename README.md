@@ -23,15 +23,15 @@ docker compose restart
 
 ## Content map
 
-| What                                        | Where                                    |
-| ------------------------------------------- | ---------------------------------------- |
-| About page + profile photo                  | `_pages/about.md`, `assets/img/prof_pic.jpg` |
-| CV (page render + auto-generated PDF)       | `_data/cv.yml`, design in `assets/rendercv/` |
-| Publications                                | `_bibliography/papers.bib`               |
-| Projects                                    | `_projects/`                             |
-| GitHub repositories page                    | `_data/repositories.yml`                 |
-| Social links                                | `_data/socials.yml`                      |
-| Site settings (name, URL, feature flags)    | `_config.yml`                            |
+| What                                     | Where                                        |
+| ---------------------------------------- | -------------------------------------------- |
+| About page + profile photo               | `_pages/about.md`, `assets/img/prof_pic.jpg` |
+| CV (page render + auto-generated PDF)    | `_data/cv.yml`, design in `assets/rendercv/` |
+| Publications                             | `_bibliography/papers.bib`                   |
+| Projects                                 | `_projects/`                                 |
+| GitHub repositories page                 | `_data/repositories.yml`                     |
+| Social links                             | `_data/socials.yml`                          |
+| Site settings (name, URL, feature flags) | `_config.yml`                                |
 
 ## Deployment
 
