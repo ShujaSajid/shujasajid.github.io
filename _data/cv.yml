@@ -1,189 +1,194 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Shuja Sajid
+  label: Research Scholar — Computer Science
+  email: shujasajid8@gmail.com
+  phone: +91 94566 68602
+  location: New Delhi, India
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Highly motivated research scholar in computer science with interests in cybersecurity, knowledge representation, ontology and ergonomics.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: ShujaSajid
     - network: LinkedIn
-      username: example
+      username: shujasajid
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: ""
+    city: New Delhi
+    region: Delhi
+    postalCode: ""
+    countryCode: IN
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: Jamia Millia Islamia
+        location: New Delhi, India
+        url: https://www.jmi.ac.in/
+        area: Computer Science
+        studyType: Doctor of Philosophy (Ph.D.)
+        start_date: 2023
+        end_date: present
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - Research interests: cybersecurity, knowledge representation, ontology and ergonomics.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Jamia Millia Islamia
+        location: New Delhi, India
+        url: https://www.jmi.ac.in/
+        area: Computer Science and Applications
+        studyType: Master of Computer Application (M.C.A.)
+        start_date: 2019
+        end_date: 2022
+        score: "CGPA 8.67 (Distinction)"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - Major in Computer Science and Applications.
+
+      - institution: Aligarh Muslim University
+        location: Aligarh, India
+        url: https://www.amu.ac.in/
+        area: Computer Applications, Mathematics, Physics
+        studyType: Bachelor of Science (Hons.)
+        start_date: 2016
+        end_date: 2019
+        score: "CGPA 7.03"
+        courses: ""
+        highlights: []
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Jamia Millia Islamia
+        position: Guest Faculty — Computer, Department of Urdu
+        location: New Delhi, India
+        start_date: 2025-08
+        end_date: 2026-05
+        summary: ""
+        highlights: []
+
+      - company: AFM Group
+        position: Full Stack Developer-Trainee
+        location: India
+        start_date: 2021-07
+        end_date: 2022-01
+        summary: ""
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - Designed and implemented a website front-end using JavaScript and Tailwind CSS.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Beyond Severity: Tactical Risk Scoring for Healthcare Vulnerabilities"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+          - S. Sajid
+          - M. Nazir
+          - M. Aijaz
+        publisher: 2025 2nd International Conference on Multidisciplinary Research and Innovations in Engineering (MRIE), Gurugram, India
+        releaseDate: 2025
+        url: https://doi.org/10.1109/MRIE66930.2025.11156632
+        summary: pp. 427-432. A second paper, "A Decision-Process Framework for Cyber-Physical Security Risk Mitigation in Healthcare Systems," was presented at ICMSDRI-2026, Gurugram, India.
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Hate Speech Detection in Tweets using Deep Learning
+        summary: Cleaned and processed multi-source social media and news data for deep learning model training. Developed an interactive Streamlit dashboard for real-time visualization of results and performance metrics. Tech stack: Python, FastAI, NumPy, Streamlit. Repository: github.com/ShujaSajid/MajorProjectFinal.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Deep learning on multi-source social media data
+          - Interactive Streamlit dashboard
+        start_date: ""
+        end_date: ""
+
+      - name: Image Based Steganography
+        summary: Tkinter GUI application using custom cryptographic techniques for secure communication. Encrypted text into image files with full data retrieval and no visual distortion. Tech stack: Python, PIL, Tkinter, Docker. Repository: github.com/ShujaSajid/ImageBasedSteganography.
+        highlights:
+          - Custom cryptographic techniques
+          - Tkinter GUI and Docker packaging
+        start_date: ""
+        end_date: ""
+
+      - name: Student Web Services
+        summary: End-to-end online admissions portal managing the complete student enrollment lifecycle with a PHP/MySQL backend processing 500+ student records. Tech stack: PHP, HTML, CSS, JavaScript, jQuery, MySQL.
+        highlights:
+          - Complete enrollment lifecycle management
+          - Robust PHP/MySQL backend
+        start_date: ""
+        end_date: ""
+
+      - name: E-Commerce Website
+        summary: Full-stack e-commerce platform with custom user and admin dashboards for order workflows. Tech stack: PHP, HTML, CSS, JavaScript, jQuery, MySQL.
+        highlights:
+          - Custom user and admin dashboards
+        start_date: ""
+        end_date: ""
+
+    Skills:
+      - name: Programming Languages
+        level: Proficient
+        icon: fa-solid fa-code
+        keywords: "Python, C/C++, Java, Bash, MATLAB"
+
+      - name: Software and Tools
+        level: Proficient
+        icon: fa-solid fa-toolbox
+        keywords: "HTML, LaTeX, Excel, Git, Docker"
+
+      - name: Operating Systems
+        level: Proficient
+        icon: fa-solid fa-terminal
+        keywords: "Linux, Windows, Android"
+
+    Certificates:
+      - name: Open Source Software Development, Linux and Git (Credential ID YY5KYDJ42P4D)
+        date: 2021-01
+        issuer: The Linux Foundation (Coursera)
+        icon: fa-solid fa-location-dot
+
+      - name: Google IT Support Specialization (Credential ID DRJ9LJER4377)
+        date: 2020-10
+        issuer: Google (Coursera)
+        icon: fa-solid fa-tag
+
+      - name: IBM AI Engineering Specialization (Credential ID VQH5FVMVJYTH)
+        date: 2020-09
+        issuer: IBM (Coursera)
+        icon: fa-solid fa-envelope
+
+      - name: Applied Data Science Specialization (Credential ID FSGAS4ZYJT8U)
+        date: 2020-08
+        issuer: IBM (Coursera)
+        icon: fa-solid fa-tag
+
+      - name: IBM Data Science Specialization (Credential ID N4FWRH88RNL2)
+        date: 2020-08
+        issuer: IBM (Coursera)
+        icon: fa-solid fa-tag
+
+    Awards:
+      - title: UGC National Eligibility Test (NET) — Qualified
+        authors:
+          - University Grants Commission
+        date: 2024-12
+        awarder: University Grants Commission
+        summary: Computer Science and Applications, December 2024 cycle.
+
+      - title: "GATE 2022 — All India Rank 8886"
+        authors:
+          - GATE
+        date: 2022
+        awarder: Graduate Aptitude Test in Engineering
+        summary: Computer Science and Information Technology (CS).
+
+    Interests:
+      - name: Research
+        icon: fa-solid fa-tag
+        keywords: "Cybersecurity, Knowledge Representation, Ontology, Ergonomics"
 
     References:
-      - name: Professor John Doe
+      - name: Prof. Mansaf Alam
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Professor, Department of Computer Science, Jamia Millia Islamia. Email: malam2@jmi.ac.in.
 
-      - name: Professor Jane Smith
+      - name: Prof. Rajendra Kumar
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Professor, Department of Computer Science, Jamia Millia Islamia. Email: rkumar1@jmi.ac.in.
+
+      - name: Dr. Mohammad Nadeem
+        icon: fa-solid fa-laptop
+        reference: Assistant Professor, Department of Computer Science, Aligarh Muslim University. Email: mnadeem.cs@amu.ac.in.
