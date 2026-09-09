@@ -1,0 +1,15 @@
+// Site-owned addition: center the top navigation menu on desktop widths.
+// The theme right-aligns the menu via `justify-content: flex-end` on
+// `.navbar-collapse-main` and `margin-left: auto` on `.navbar-menu-list`.
+// Note: on inner pages the brand sits at the left, so the menu centers in the
+// remaining space; on the homepage (no brand) it is truly centered.
+// Mobile (< 576px) keeps the theme's collapsed left-aligned menu.
+@media (min-width: 576px) {
+  #navbar .navbar-collapse-main {
+    justify-content: center;
+  }
+
+  #navbar .navbar-menu-list {
+    margin-left: 0;
+  }
+}
