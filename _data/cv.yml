@@ -161,16 +161,3 @@ cv:
       - name: Research
         icon: fa-solid fa-tag
         keywords: "Cybersecurity, Knowledge Representation, Ontology, Ergonomics"
-
-    References:
-      - name: Prof. Mansaf Alam
-        icon: fa-solid fa-laptop
-        reference: "Professor, Department of Computer Science, Jamia Millia Islamia. Email: malam2@jmi.ac.in."
-
-      - name: Prof. Rajendra Kumar
-        icon: fa-solid fa-thumbtack
-        reference: "Professor, Department of Computer Science, Jamia Millia Islamia. Email: rkumar1@jmi.ac.in."
-
-      - name: Dr. Mohammad Nadeem
-        icon: fa-solid fa-laptop
-        reference: "Assistant Professor, Department of Computer Science, Aligarh Muslim University. Email: mnadeem.cs@amu.ac.in."
