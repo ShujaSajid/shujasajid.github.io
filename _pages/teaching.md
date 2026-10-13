@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses I am currently teaching as Guest Faculty, with assignment templates.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ## Programs

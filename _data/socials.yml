@@ -6,6 +6,6 @@ email: shujasajid8@gmail.com # your email address
 github_username: ShujaSajid # your GitHub username
 linkedin_username: shujasajid # your LinkedIn username
 orcid_id: 0009-0007-6362-9999 # your ORCID iD
-rss_icon: true # comment this line to hide the RSS icon
+# rss_icon: true # RSS icon hidden — enable by uncommenting
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)

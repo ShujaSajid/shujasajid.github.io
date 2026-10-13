@@ -2,9 +2,9 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: A selection of my GitHub projects and repositories.
+description: Selected GitHub repositories — deep-learning projects and research code.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 {% if site.data.repositories.github_users %}

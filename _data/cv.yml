@@ -11,6 +11,31 @@ cv:
       username: shujasajid
 
   sections:
+    Interests:
+      - name: Research
+        icon: fa-solid fa-tag
+        keywords: "Cybersecurity, Knowledge Representation, Ontology, Ergonomics"
+
+    Experience:
+      - company: Jamia Millia Islamia
+        position: Guest Faculty — Computer Science, Centre for Interdisciplinary Research in Basic Sciences
+        location: New Delhi, India
+        start_date: 2025-08
+        end_date: 2026-05
+        summary: "Teaching Computer Science to B.Sc. Life Science with Computer programme."
+        highlights:
+          - "Python Programming (Semester 1) with programming assignments."
+          - "Database Management Systems (Semester 3) with DBMS assignments."
+
+      - company: AFM Group
+        position: Full Stack Developer-Trainee
+        location: India
+        start_date: 2021-07
+        end_date: 2022-01
+        summary: ""
+        highlights:
+          - Designed and implemented a website front-end using JavaScript and Tailwind CSS.
+
     Education:
       - institution: Jamia Millia Islamia
         location: New Delhi, India
@@ -47,23 +72,20 @@ cv:
         courses: ""
         highlights: []
 
-    Experience:
-      - company: Jamia Millia Islamia
-        position: Guest Faculty — Computer, Department of Urdu
-        location: New Delhi, India
-        start_date: 2025-08
-        end_date: 2026-05
-        summary: ""
-        highlights: []
+    Awards:
+      - title: UGC National Eligibility Test (NET) — Qualified
+        authors:
+          - University Grants Commission
+        date: 2024-12
+        awarder: University Grants Commission
+        summary: Computer Science and Applications, December 2024 cycle.
 
-      - company: AFM Group
-        position: Full Stack Developer-Trainee
-        location: India
-        start_date: 2021-07
-        end_date: 2022-01
-        summary: ""
-        highlights:
-          - Designed and implemented a website front-end using JavaScript and Tailwind CSS.
+      - title: "GATE 2022 — All India Rank 8886"
+        authors:
+          - GATE
+        date: "2022"
+        awarder: Graduate Aptitude Test in Engineering
+        summary: Computer Science and Information Technology (CS).
 
     Publications:
       - title: "Beyond Severity: Tactical Risk Scoring for Healthcare Vulnerabilities"
@@ -141,23 +163,3 @@ cv:
         date: 2020-08
         issuer: IBM (Coursera)
         icon: fa-solid fa-tag
-
-    Awards:
-      - title: UGC National Eligibility Test (NET) — Qualified
-        authors:
-          - University Grants Commission
-        date: 2024-12
-        awarder: University Grants Commission
-        summary: Computer Science and Applications, December 2024 cycle.
-
-      - title: "GATE 2022 — All India Rank 8886"
-        authors:
-          - GATE
-        date: "2022"
-        awarder: Graduate Aptitude Test in Engineering
-        summary: Computer Science and Information Technology (CS).
-
-    Interests:
-      - name: Research
-        icon: fa-solid fa-tag
-        keywords: "Cybersecurity, Knowledge Representation, Ontology, Ergonomics"
