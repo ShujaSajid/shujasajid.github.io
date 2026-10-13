@@ -14,27 +14,25 @@ cv:
     Interests:
       - name: Research
         icon: fa-solid fa-tag
-        keywords: "Cybersecurity, Knowledge Representation, Ontology, Ergonomics"
+        keywords: "Cybersecurity, Knowledge Representation, Security Risk Assessment, Attack Graphs, Ontology, Ergonomics"
 
     Experience:
       - company: Jamia Millia Islamia
         position: Guest Faculty — Computer Science, Centre for Interdisciplinary Research in Basic Sciences
         location: New Delhi, India
-        start_date: 2025-08
-        end_date: 2026-05
-        summary: "Teaching Computer Science to B.Sc. Life Science with Computer programme."
-        highlights:
-          - "Python Programming (Semester 1) with programming assignments."
-          - "Database Management Systems (Semester 3) with DBMS assignments."
+        start_date: 2026-08
+        end_date: Present
+        #summary: "Teaching Computer Science to B.Sc. Life Science with Computer programme."
+        #highlights:
 
-      - company: AFM Group
-        position: Full Stack Developer-Trainee
-        location: India
-        start_date: 2021-07
-        end_date: 2022-01
-        summary: ""
-        highlights:
-          - Designed and implemented a website front-end using JavaScript and Tailwind CSS.
+      - company: Jamia Millia Islamia
+        position: Guesyt Faculty — Computer
+        location: New Delhi, India
+        start_date: 2025-08
+        end_date: 2026-06
+        #summary: ""
+        #highlights:
+        # - Designed and implemented a website front-end using JavaScript and Tailwind CSS.
 
     Education:
       - institution: Jamia Millia Islamia
@@ -44,7 +42,7 @@ cv:
         studyType: Doctor of Philosophy (Ph.D.)
         start_date: "2023"
         end_date: present
-        score: ""
+        #score: ""
         courses: ""
         highlights:
           - "Research interests: cybersecurity, knowledge representation, ontology and ergonomics."
@@ -96,7 +94,7 @@ cv:
         publisher: 2025 2nd International Conference on Multidisciplinary Research and Innovations in Engineering (MRIE), Gurugram, India
         releaseDate: "2025"
         url: https://doi.org/10.1109/MRIE66930.2025.11156632
-        summary: pp. 427-432. A second paper, "A Decision-Process Framework for Cyber-Physical Security Risk Mitigation in Healthcare Systems," was presented at ICMSDRI-2026, Gurugram, India.
+        #summary: pp. 427-432. A second paper, "A Decision-Process Framework for Cyber-Physical Security Risk Mitigation in Healthcare Systems," was presented at ICMSDRI-2026, Gurugram, India.
 
     Projects:
       - name: Hate Speech Detection in Tweets using Deep Learning
@@ -111,16 +109,16 @@ cv:
           - Custom cryptographic techniques
           - Tkinter GUI and Docker packaging
 
-      - name: Student Web Services
-        summary: "End-to-end online admissions portal managing the complete student enrollment lifecycle with a PHP/MySQL backend processing 500+ student records. Tech stack: PHP, HTML, CSS, JavaScript, jQuery, MySQL."
-        highlights:
-          - Complete enrollment lifecycle management
-          - Robust PHP/MySQL backend
+      #- name: Student Web Services
+      #  summary: "End-to-end online admissions portal managing the complete student enrollment lifecycle with a PHP/MySQL backend processing 500+ student records. Tech stack: PHP, HTML, CSS, JavaScript, jQuery, MySQL."
+      #  highlights:
+      #    - Complete enrollment lifecycle management
+      #    - Robust PHP/MySQL backend
 
-      - name: E-Commerce Website
-        summary: "Full-stack e-commerce platform with custom user and admin dashboards for order workflows. Tech stack: PHP, HTML, CSS, JavaScript, jQuery, MySQL."
-        highlights:
-          - Custom user and admin dashboards
+      #- name: E-Commerce Website
+      #  summary: "Full-stack e-commerce platform with custom user and admin dashboards for order workflows. Tech stack: PHP, HTML, CSS, JavaScript, jQuery, MySQL."
+      #  highlights:
+      #    - Custom user and admin dashboards
 
     Skills:
       - name: Programming Languages
